@@ -1,0 +1,14 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#F0F7FF"/>
+  <path d="M144.903 182.613C144.903 177.091 149.381 172.613 154.903 172.613H445.097C450.619 172.613 455.097 177.091 455.097 182.613V277.387C455.097 282.909 450.619 287.387 445.097 287.387H154.903C149.381 287.387 144.903 282.909 144.903 277.387V182.613Z" fill="white" stroke="#E6E8EB" stroke-width="3"/>
+  <rect x="183" y="205" width="29" height="54" rx="2" fill="#3B82F6"/>
+  <rect x="223" y="187" width="29" height="72" rx="2" fill="#3B82F6"/>
+  <rect x="263" y="173" width="29" height="86" rx="2" fill="#3B82F6"/>
+  <rect x="303" y="155" width="29" height="104" rx="2" fill="#3B82F6"/>
+  <rect x="343" y="173" width="29" height="86" rx="2" fill="#3B82F6"/>
+  <rect x="383" y="187" width="29" height="72" rx="2" fill="#3B82F6"/>
+  <circle cx="300" cy="130" r="50" fill="#0066CC" fill-opacity="0.1"/>
+  <path d="M286 130L296 140L316 120" stroke="#0066CC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184 310C186.667 317.333 196.2 332 212 332C232 332 232 310 252 310C272 310 272 332 292 332C312 332 312 310 332 310C352 310 352 332 372 332C387.2 332 397.333 317.333 400 310" stroke="#0066CC" stroke-width="3"/>
+  <path d="M147 116C159.667 100 189.6 68 208 68C231 68 238 98 266 98C294 98 301 68 324 68C347 68 354 98 382 98C404.8 98 439.667 100 453 116" stroke="#0066CC" stroke-opacity="0.3" stroke-width="8"/>
+</svg>
