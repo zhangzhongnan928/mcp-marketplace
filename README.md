@@ -8,12 +8,34 @@ MCP Marketplace is a platform that allows developers to create and publish Model
 
 ## Project Status
 
-This is a front-end mockup to validate the user experience for an MCP marketplace. It demonstrates the core user journeys:
+This project includes both the original UI mockup and an Apple-inspired redesign that follows Apple's design language and aesthetic:
 
-1. Discovering available MCP services
-2. Viewing detailed information about services
-3. One-click integration with Claude and other AI assistants
-4. Information for developers interested in creating MCP services
+### Original Design
+- Uses more traditional UI components and layout
+- Located in the default app routes and components
+
+### Apple-Inspired Redesign
+- Minimalist and clean aesthetic
+- Premium feel with ample white space
+- Subtle hover effects and transitions
+- High-quality imagery and typography
+- Located in `-apple.tsx` files
+
+## UI Design Highlights
+
+### Apple-Inspired Design Features
+- **Color Palette**: Clean whites, subtle grays, and sparing use of blue as an accent color
+- **Typography**: Clean, modern font hierarchy with appropriate spacing
+- **Component Styling**: 
+  - Subtle rounded corners (8-12px radius)
+  - Soft shadows for depth
+  - Minimal borders
+  - Subtle hover interactions
+  - Cards with clean separation
+- **Layout**:
+  - Grid-based with consistent spacing
+  - Strategic use of negative space
+  - Modern asymmetrical layouts when appropriate
 
 ## Features
 
@@ -25,6 +47,7 @@ This is a front-end mockup to validate the user experience for an MCP marketplac
 
 ## Project Structure
 
+### Original Design
 - `/app` - Next.js application routes and pages
   - `/` - Home page
   - `/discover` - Browse available MCP services
@@ -35,12 +58,29 @@ This is a front-end mockup to validate the user experience for an MCP marketplac
   - `Navbar.tsx` - Navigation header
   - `Footer.tsx` - Site footer
   - `IntegrationButton.tsx` - One-click integration UI component
-- `/public` - Static files
-  - `logo.svg` - MCP Marketplace logo
+
+### Apple-Inspired Redesign
+- `/app/layout-apple.tsx` - Apple-inspired layout
+- `/app/home-apple.tsx` - Apple-inspired home page
+- `/app/discover/page-apple.tsx` - Apple-inspired discover page
+- `/app/service/[id]/page-apple.tsx` - Apple-inspired service detail page
+- `/components` - New Apple-inspired components
+  - `NavbarApple.tsx` - Apple-inspired navigation header
+  - `FooterApple.tsx` - Apple-inspired footer
+  - `IntegrationButtonApple.tsx` - Apple-inspired integration button
+  - `ServiceCardApple.tsx` - Apple-inspired service card component
 
 ## Screenshots
 
 *(Screenshots will be added once the initial implementation is deployed)*
+
+## Design Inspiration
+
+The Apple-inspired redesign draws inspiration from:
+- Apple.com
+- Stripe.com
+- Airbnb.com
+- Square.com
 
 ## Next Steps
 
