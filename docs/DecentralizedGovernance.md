@@ -2,6 +2,12 @@
 
 This document outlines the decentralized governance and reputation system for the MCP Marketplace project, designed to create a sustainable ecosystem where all stakeholders benefit and are incentivized to contribute meaningfully.
 
+## System Overview
+
+![Decentralized Governance System](./assets/DecentralizedSystem.svg)
+
+The diagram above illustrates how the different stakeholders interact within the MCP Marketplace ecosystem, showing the flow of value, contributions, and incentives between service developers, users, contributors, and MCP clients.
+
 ## Table of Contents
 
 - [Core Components](#core-components)
